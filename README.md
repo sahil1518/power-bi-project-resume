@@ -27,3 +27,6 @@ Super market sales data is collected from Kaggle. Some Data preprocessing techni
 
 # Dashboard Image
 
+![image](https://github.com/user-attachments/assets/a6e0eb77-e9e9-4684-ba99-1d1f1efb9e77)
+
+
