@@ -1,29 +1,48 @@
-# Super market sales analysis using Power BI
+# Supermarket Sales Analysis Dashboard
 
-Super market sales data is collected from Kaggle. Some Data preprocessing techniques is applied and Power BI is used to perform analysis. A dashboard is created using various graphs and charts.
+## Overview
+Analyzed 1,000 supermarket transactions across 3 branches in Myanmar
+to identify sales patterns, customer behavior, and product performance.
 
-# Tools Used:
+## Tech Stack
+- Power BI — interactive dashboard
+- Excel/CSV — data source
+- Data Preprocessing — cleaning and transformation
 
-1.Python
+## Dataset
+Supermarket Sales dataset from Kaggle
+- 1,000 transactions
+- 3 branches — Yangon, Mandalay, Naypyitaw
+- 6 product categories
+- Jan 2019 to Mar 2019
 
-2.Pandas
+## Dashboard Features
+- Product category slicer — filter entire dashboard by category
+- Payment method analysis — Cash vs Ewallet vs Credit Card
+- Sales by Gender — Male vs Female split
+- Branch performance comparison — A, B, C
+- City wise revenue distribution
+- Customer type analysis — Member vs Normal
+- KPI cards — Total Quantity, Gross Income, Total Sales
 
-3.Power BI
+## Key Findings
+1. Yangon (Branch A) generates highest sales — 36.26% of total revenue
+2. Payment methods are evenly split — Cash 32%, Ewallet 33%, Credit Card 34%
+3. Male customers spend slightly more — 51.84% vs 48.16%
+4. Sports and Travel is the highest revenue category
+5. Member and Normal customers have almost equal purchase volumes
 
+## Key Numbers
+- Total Sales — $110,250
+- Total Transactions — 1,000
+- Branches — 3 (Yangon, Mandalay, Naypyitaw)
+- Product Categories — 6
+- Date Range — Jan 2019 to Mar 2019
 
-# Graphs and Charts list:
-
-1.Line Chart
-
-2.Pie Chart
-
-3.Donut Chart
-
-4.Gauge
-
-5.Card
-
-6.Slicer
+## Files
+- /data — supermarket_sales.csv
+- /screenshots — dashboard screenshots
+- SupermarketSales.pbix — Power BI dashboard file
 
 # Dashboard Image
 
